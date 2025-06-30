@@ -32,7 +32,7 @@ Transform your audio recordings into actionable insights with AI-powered transcr
 
 ## 🆓 Try It Now - FREE!
 
-**🔗 [Launch on Hugging Face Spaces](https://huggingface.co/spaces/YOUR_USERNAME/ai-meeting-assistant)**
+**🔗 [Launch on Hugging Face Spaces](https://huggingface.co/spaces/waize333/GenAi-MeetingAssistant)**
 
 *No installation required • No signup needed • Completely free*
 
